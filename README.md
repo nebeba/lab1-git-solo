@@ -1,4 +1,4 @@
-# Lab 1 - gitara
+# Projekt Beta
 
 Robie sobie jednom zmianke
 
