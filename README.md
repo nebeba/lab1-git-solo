@@ -8,3 +8,7 @@ Robie sobie jednom zmianke
 
 Artur
 
+
+
+stopa
+
