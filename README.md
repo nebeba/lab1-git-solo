@@ -1,4 +1,4 @@
-# Projekt Beta
+# Projekt Alfa-Beta
 
 Robie sobie jednom zmianke
 
