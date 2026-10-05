@@ -1,4 +1,4 @@
-# Lab 1 - git
+# Lab 1 - gitara
 
 Robie sobie jednom zmianke
 
